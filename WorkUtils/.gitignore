@@ -1,0 +1,7 @@
+/.settings/
+/target/
+/.classpath
+/.project
+/pom.xml
+/lib/
+/conf/
